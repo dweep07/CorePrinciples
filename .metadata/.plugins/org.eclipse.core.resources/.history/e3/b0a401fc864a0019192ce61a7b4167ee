@@ -1,0 +1,5 @@
+package FristMavenProject.StartSelenium;
+
+public class SeleniumTest {
+
+}
