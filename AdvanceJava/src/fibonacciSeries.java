@@ -15,8 +15,5 @@ public class fibonacciSeries {
             previousNumber = nextNumber;
             nextNumber = sum;
 		}
-			
-
 	}
-
 }
